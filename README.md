@@ -12,7 +12,7 @@ React 18 Hooks with
 - [tailwindcss(v4)](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 
-in [Feature-Sliced Design](https://feature-sliced.github.io) Architecture
+in [Feature-Sliced Design](https://feature-sliced.github.io/documentation) Architecture
 
 Currently, two official plugins are available:
 
